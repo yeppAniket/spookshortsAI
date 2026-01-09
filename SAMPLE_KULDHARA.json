@@ -1,0 +1,78 @@
+{
+  "title": "Kuldhara Mystery - Part 1",
+  "series_tag": "Part 1 of 2",
+  "language": "hi",
+  "total_duration": 35,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "सोचिए... एक रात में 83 गाँव पूरी तरह खाली हो जाएं। कोई शोर नहीं, कोई लाश नहीं।",
+      "hinglish_display": "Sochiye... ek raat mein 83 gaon poori tarah khaali ho jayein. Koi shor nahi, koi laash nahi.",
+      "visual_prompt": "Drone shot of abandoned Kuldhara village ruins in Rajasthan desert, sunset, cinematic, mysterious, 8k, national geographic style.",
+      "sfx_cue": "drone_low",
+      "visual_effect": "slow_zoom_in",
+      "effect_timestamp": 3.0,
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 2,
+      "narration": "ये कहानी है 1825 की। जैसलमेर के पालीवाल ब्राह्मण एक रात में गायब हो गए।",
+      "hinglish_display": "Ye kahani hai 1825 ki. Jaisalmer ke Paliwal Brahmins ek raat mein gayab ho gaye.",
+      "visual_prompt": "Old sepia-toned map of Rajasthan from 1800s, burning candle on table, dust particles, vintage aesthetic.",
+      "sfx_cue": "clock_ticking",
+      "visual_effect": "static_noise",
+      "effect_timestamp": 2.5,
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 3,
+      "narration": "वजह था एक ज़ालिम दीवान - सलीम सिंह। उसकी नज़र गाँव की मुखिया की बेटी पर थी।",
+      "hinglish_display": "Wajah tha ek zaalim Diwan - Salim Singh. Uski nazar gaon ki mukhiya ki beti par thi.",
+      "visual_prompt": "Portrait of a cruel Indian minister (Diwan) from 19th century, large mustache, evil eyes, wearing royal turban, dark oil painting style.",
+      "sfx_cue": "sword_draw",
+      "visual_effect": "slow_zoom_in",
+      "effect_timestamp": 3.0,
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 4,
+      "narration": "उसने गाँव वालों को एक दिन का वक़्त दिया: 'या तो लड़की मुझे दे दो, या मैं पूरा गाँव जला दूंगा।'",
+      "hinglish_display": "Usne gaon walon ko ek din ka waqt diya: 'Ya toh ladki mujhe de do, ya main poora gaon jala dunga.'",
+      "visual_prompt": "Silhouette of a man standing in front of a burning village, embers flying in the air, fear, cinematic.",
+      "sfx_cue": "fire_crackling",
+      "visual_effect": "flash_red",
+      "effect_timestamp": 3.5,
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 5,
+      "narration": "गाँव वालों ने लड़की नहीं दी। लेकिन वो लड़े भी नहीं।",
+      "hinglish_display": "Gaon walon ne ladki nahi di. Lekin wo lade bhi nahi.",
+      "visual_prompt": "Empty streets of an ancient Indian village at night, doors left open, abandoned items on the floor, eerie silence.",
+      "sfx_cue": "silence",
+      "visual_effect": "slow_zoom_in",
+      "effect_timestamp": 2.0,
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 6,
+      "narration": "वो बस गायब हो गए... और जाते जाते एक ऐसा श्राप दे गए जो आज तक ज़िंदा है।",
+      "hinglish_display": "Wo bas gayab ho gaye... aur jaate jaate ek aisa shraap de gaye jo aaj tak zinda hai.",
+      "visual_prompt": "Close up of an old locked door with a heavy rusty lock, dust blowing.",
+      "sfx_cue": "jumpscare_sting",
+      "visual_effect": "rapid_shake",
+      "effect_timestamp": 3.0,
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 7,
+      "narration": "क्या था वो श्राप? देखिए Part 2 में।",
+      "hinglish_display": "Kya tha wo shraap? Dekhiye Part 2 mein.",
+      "visual_prompt": "Text overlay on black screen: 'PART 2 COMING SOON' with red text.",
+      "sfx_cue": "drone_low",
+      "visual_effect": "vignette_pulse",
+      "effect_timestamp": 1.5,
+      "duration_estimate": 3.0
+    }
+  ]
+}

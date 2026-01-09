@@ -1,0 +1,54 @@
+{
+  "title": "Tum Uske Saath",
+  "series_tag": "Heartbreak Diaries",
+  "language": "hi",
+  "genre": "romance",
+  "total_duration": 32,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "बारिश की बूंदों में आज वो दिखी... किसी और का हाथ थामे।",
+      "hinglish_display": "Aaj baarish me wo dikhi... kisi aur ka haath thaame.",
+      "visual_prompt": "Blue hour street, rain droplets on camera lens, girl walking with new guy holding umbrella, protagonist watching from distance, neon reflections on wet road.",
+      "audio_cue": "rain_soft",
+      "visual_effect": "soft_blur",
+      "duration_estimate": 6.5
+    },
+    {
+      "id": 2,
+      "narration": "दिल में हल्की सी टीस उठी... जैसे कोई बची खुची धड़कन भी शरमा गई।",
+      "hinglish_display": "Halka sa dard... jaise bachhi hui dhadkan bhi sharma gayi.",
+      "visual_prompt": "Close-up of hand clenching jacket sleeve, warm city lights blurred, soft bokeh lights falling like tears.",
+      "audio_cue": "soft_piano",
+      "visual_effect": "bokeh_hearts",
+      "duration_estimate": 6
+    },
+    {
+      "id": 3,
+      "narration": "मैंने सोचा... शायद वो मुस्कान कभी मेरे लिए थी ही नहीं।",
+      "hinglish_display": "Shayad wo muskaan kabhi mere liye thi hi nahi.",
+      "visual_prompt": "Reflection on foggy café glass, protagonist outside looking in, warm yellow interior lights contrasting cold blue outside.",
+      "audio_cue": "gentle_strings",
+      "visual_effect": "warm_glow",
+      "duration_estimate": 6
+    },
+    {
+      "id": 4,
+      "narration": "कभी उसके साथ सपने थे, आज उसके साथ कोई और था।",
+      "hinglish_display": "Kabhi sapne the saath, aaj koi aur tha saath.",
+      "visual_prompt": "Flashback montage silhouette of couple laughing, dissolves into current scene where girl walks away with someone else, streetlight flickering.",
+      "audio_cue": "acoustic_guitar",
+      "visual_effect": "gentle_fade",
+      "duration_estimate": 6.5
+    },
+    {
+      "id": 5,
+      "narration": "पर सच कहूँ... उसे खोकर, मैं खुद को पा गया हूँ।",
+      "hinglish_display": "Par sach kahu... use khokar, main khud ko paa gaya hoon.",
+      "visual_prompt": "Solo figure walking under streetlight, gentle breeze, empty street, rain stopped, city skyline distant.",
+      "audio_cue": "birds_chirping",
+      "visual_effect": "dreamy_overlay",
+      "duration_estimate": 7
+    }
+  ]
+}

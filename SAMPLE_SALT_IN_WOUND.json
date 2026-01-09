@@ -1,0 +1,44 @@
+{
+  "title": "Salt in the Wound",
+  "series_tag": "Oscar-Level Indian Horror Concept",
+  "language": "Hindi",
+  "total_duration": 35,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "कच्छ के एक सूखे गाँव में, पुरानी बावड़ी की खुदाई के दौरान नमक के पत्थर और छोटे-छोटे हड्डी के टुकड़े मिले… किसी ने कभी बताया नहीं—यहाँ पानी क्यों सूख गया था।",
+      "hinglish_display": "Kutch ke ek sookhe gaon mein, puraani baavdi ki khudaai ke dauraan namak ke patthar aur chhote-chhote haddi ke tukde mile... kisi ne kabhi bataya nahi—yahan paani kyun sookh gaya tha.",
+      "visual_prompt": "Wide shot of cracked stepwell, workers digging, sun glare.",
+      "audio_cue": "wind_howling",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 8.0
+    },
+    {
+      "id": 2,
+      "narration": "डॉ. अवनी ने सोचा—ये इतिहास होगा। लेकिन पुराने पत्थरों पर तारीखें मिलीं—जन्म की तारीखें… और उनके बाद वाली तारीखें—मौत की।",
+      "hinglish_display": "Dr. Avni ne socha—ye itihaas hoga. Lekin puraane pattharon par taareekhen mili—janm ki taareekhen... aur unke baad waali taareekhen—maut ki.",
+      "visual_prompt": "Close-up on engraved copper plate with numbers.",
+      "audio_cue": "deep_swell",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 7.0
+    },
+    {
+      "id": 3,
+      "narration": "गाँव वालों ने कहा—'नमक डालते थे पानी शुद्ध करने के लिए।' पर सच यह था… वो नमक पानी नहीं, बच्चों की आवाजें दबाता था।",
+      "hinglish_display": "Gaon walon ne kaha—'Namak daalte the paani shuddh karne ke liye.' Par sach yeh tha... wo namak paani nahi, bacchon ki aawaazen dabata tha.",
+      "visual_prompt": "Salt dust falling into empty well, echo of small cry.",
+      "audio_cue": "soft_child_sob",
+      "visual_effect": "chromatic_aberration",
+      "duration_estimate": 10.0
+    },
+    {
+      "id": 4,
+      "narration": "जैसे ही पानी वापस आया… बावड़ी की दीवारों से पुराने रोने की आवाजें निकलने लगीं। दशकों से जमा आवाजें—धीरे-धीरे पिघलने लगीं।",
+      "hinglish_display": "Jaise hi paani waapas aaya... baavdi ki deewaron se puraane rone ki aawaazen nikalne lagi. Dashakon se jama aawaazen—dheere-dheere pighalne lagi.",
+      "visual_prompt": "Water filling stepwell, sound vibration ripples on surface.",
+      "audio_cue": "echoing_scream",
+      "visual_effect": "static_noise",
+      "duration_estimate": 10.0
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Mukesh Mills Haunting",
+  "series_tag": "Real Haunted Places",
+  "language": "Hindi",
+  "total_duration": 34,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "मुंबई की मुकेश मिल्स में सूरज ढलने के बाद शूटिंग करना मना है।",
+      "hinglish_display": "Mumbai ki Mukesh Mills mein sooraj dhalne ke baad shooting karna mana hai.",
+      "visual_prompt": "Drone shot of ruined, burnt-out Mukesh Mills complex in Mumbai near sea, sunset, dark shadows, cinematic decay, 8k.",
+      "sfx_cue": "drone_low",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 2,
+      "narration": "कई साल पहले, एक फिल्म क्रू वहां रात को शूट कर रहा था। सब नॉर्मल था, जब तक...",
+      "hinglish_display": "Kayi saal pehle, ek film crew wahan raat ko shoot kar raha tha. Sab normal tha, jab tak...",
+      "visual_prompt": "Film set lights (HMI lights) standing in a dark ruined factory hall, crew members looking confused, heavy fog.",
+      "sfx_cue": "electrical_buzz",
+      "visual_effect": "static_noise",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 3,
+      "narration": "लीड एक्ट्रेस अचानक एक डार्क कोने में जाकर खड़ी हो गई और गुर्राने लगी।",
+      "hinglish_display": "Lead Actress achanak ek dark kone mein jakar khadi ho gayi aur ghurraane lagi.",
+      "visual_prompt": "Silhouette of a woman in a saree standing perfectly still in a pitch black corner of the factory, back turned to camera.",
+      "sfx_cue": "growl_animalistic",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 4,
+      "narration": "डायरेक्टर ने पूछा 'क्या हुआ?', तो उसने मुड़कर जवाब दिया...",
+      "hinglish_display": "Director ne pucha 'Kya hua?', toh usne mudkar jawaab diya...",
+      "visual_prompt": "Close up of the woman turning her head slowly, hair messy, cinematic horror framing.",
+      "sfx_cue": "silence",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 5,
+      "narration": "लेकिन आवाज़ लड़की की नहीं... एक भारी मर्द की थी: 'यहां से निकल जाओ!'",
+      "hinglish_display": "Lekin awaaz ladki ki nahi... ek bhari mard ki thi: 'YAHAN SE NIKAL JAO!'",
+      "visual_prompt": "Extreme close up of woman's face screaming, eyes rolled back white, distorted demon face, scary.",
+      "sfx_cue": "jumpscare_sting",
+      "visual_effect": "rapid_shake",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 6,
+      "narration": "वो शूट वहीं कैंसल हुआ। आज भी वहां रात को गार्ड रुकने से डरते हैं।",
+      "hinglish_display": "Wo shoot wahi cancel hua. Aaj bhi wahan raat ko guards rukne se darte hain.",
+      "visual_prompt": "Empty chair on the film set, lights off, dust settling, spooky atmosphere.",
+      "sfx_cue": "drone_low",
+      "visual_effect": "zoom_out_fast_to_reset",
+      "duration_estimate": 5.0
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "Dumas Beach Ki Sannaata Raat",
+  "series_tag": "Real Case — Surat (Gujarat)",
+  "language": "Hindi",
+  "total_duration": 38,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Dumas Beach… समुद्र का किनारा, लेकिन रात को यहां लोग रुकने से डरते हैं। क्योंकि यही तट, कभी शवदाह भूमि था।",
+      "hinglish_display": "Dumas Beach… samudra ka kinara, lekin raat ko yahan log rukne se darte hain. Kyunki yehi tat, kabhi shavdah bhoomi tha.",
+      "visual_prompt": "Night waves, lonely beach, wind blowing sand, no people visible.",
+      "audio_cue": "low_wind_howl",
+      "visual_effect": "grain_dark_overlay",
+      "duration_estimate": 7.0
+    },
+    {
+      "id": 2,
+      "narration": "2006 में, चार दोस्तों ने रात में वहां टेंट लगाया। लोकल पुलिस ने उन्हें हटने को कहा। पर उन्होंने नहीं सुना।",
+      "hinglish_display": "2006 mein, chaar doston ne raat mein tent lagaya. Local police ne unhe hatne ko kaha. Par unhone nahi suna.",
+      "visual_prompt": "Friends laughing, setting tent near shore, distant police jeep headlights.",
+      "audio_cue": "radio_static",
+      "visual_effect": "lens_dirt_fog",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 3,
+      "narration": "करीब 2 बजे, रेत में उंगलियों के निशान दिखे—जैसे कोई अंदर दबकर बाहर निकलना चाहता हो।",
+      "hinglish_display": "Karib 2 baje, ret me ungliyon ke nishaan dikhe—jaise koi andar dabkar bahar nikalna chahta ho.",
+      "visual_prompt": "Close-up sand surface, five deep finger grooves forming slowly.",
+      "audio_cue": "sand_scratching",
+      "visual_effect": "slow_zoom_glitch",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 4,
+      "narration": "फिर कटे हुए बालों जैसी झाड़ उठने लगी। जैसे जमीन खुद सांस ले रही हो।",
+      "hinglish_display": "Phir kate hue baalon jaisi jhaar uthane lagi. Jaise zameen khud saans le rahi ho.",
+      "visual_prompt": "Sand swelling from inside, forming ripple motion.",
+      "audio_cue": "deep_sub_bass_rise",
+      "visual_effect": "wave_distortion_pulse",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 5,
+      "narration": "दो दोस्तों की आवाज बंद हो गई। सिर्फ होंठ हिल रहे थे—आवाज़ नहीं निकल रही थी।",
+      "hinglish_display": "Do doston ki awaaz band ho gayi. Sirf hont hil rahe the—awaaz nahi aa rahi thi.",
+      "visual_prompt": "Close-up trembling lips moving silently, fear in eyes.",
+      "audio_cue": "silence_cut",
+      "visual_effect": "audio_mute_flash",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 6,
+      "narration": "सुबह जब पुलिस आई—टेंट फटा हुआ था, और रेत में सिर्फ तीन पैरों के निशान थे। चौथा निशान गायब।",
+      "hinglish_display": "Subah jab police aayi—tent phata hua tha, aur ret mein sirf 3 paon ke nishaan the. Chautha nishaan gaayab.",
+      "visual_prompt": "Cops scanning sand footprint trails ending abruptly.",
+      "audio_cue": "camera_click_static",
+      "visual_effect": "dust_particle_freeze",
+      "duration_estimate": 7.0
+    },
+    {
+      "id": 7,
+      "narration": "चार दोस्तों में से एक आज तक नहीं मिला। रिपोर्ट में लिखा—'Missing, presumed drowned.' लेकिन लहरों में उसका कोई शव नहीं मिला।",
+      "hinglish_display": "Chaar doston me se ek aaj tak nahi mila. Report me likha—'Missing, presumed drowned.' Par lehron me uska koi shav nahi mila.",
+      "visual_prompt": "Ocean waves hitting empty spot, dark horizon.",
+      "audio_cue": "heartbeat_reverse",
+      "visual_effect": "fade_to_black",
+      "duration_estimate": 7.0
+    }
+  ]
+}

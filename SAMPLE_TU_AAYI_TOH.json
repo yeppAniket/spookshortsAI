@@ -1,0 +1,54 @@
+{
+  "title": "Tu Aayi Toh",
+  "series_tag": "Cute Love Lines",
+  "language": "hi",
+  "genre": "romance",
+  "total_duration": 30,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "पहले सब ठीक था, पर तुम आई तो और अच्छा हो गया।",
+      "hinglish_display": "Pehle sab theek tha, par tum aayi toh aur accha ho gaya.",
+      "visual_prompt": "Golden hour rooftop, slow breeze, two people standing side by side looking at city view, dreamy soft lighting.",
+      "audio_cue": "soft_piano",
+      "visual_effect": "warm_glow",
+      "duration_estimate": 6
+    },
+    {
+      "id": 2,
+      "narration": "कभी बिना बात मुस्कुराया नहीं, अब छोटी-सी बात पर दिल रोशनी हो गया।",
+      "hinglish_display": "Kabhi bina baat muskuraya nahi, ab chhoti si baat par dil roshni ho gaya.",
+      "visual_prompt": "Cafe table, two cups, hands tapping, silly laughter moment, golden bokeh blurred behind.",
+      "audio_cue": "gentle_strings",
+      "visual_effect": "bokeh_hearts",
+      "duration_estimate": 6
+    },
+    {
+      "id": 3,
+      "narration": "ना कोई प्लान, ना कोई वजह, बस बातें होती रहीं... और शाम हो गया।",
+      "hinglish_display": "Na koi plan, na koi wajah, bas baatein hoti rahi... aur shaam ho gaya.",
+      "visual_prompt": "Park bench, slow camera move, trees swaying, dim sunlight turning orange, silhouettes soft.",
+      "audio_cue": "acoustic_guitar",
+      "visual_effect": "soft_blur",
+      "duration_estimate": 6
+    },
+    {
+      "id": 4,
+      "narration": "पहले दिल खाली था, तुम आई तो जैसे घर हो गया।",
+      "hinglish_display": "Pehle dil khaali tha, tum aayi toh jaise ghar ho gaya.",
+      "visual_prompt": "Slow walk near water front, feet shot, ripples, warm tone, matching step rhythm.",
+      "audio_cue": "rain_soft",
+      "visual_effect": "gentle_fade",
+      "duration_estimate": 6
+    },
+    {
+      "id": 5,
+      "narration": "शुक्र है मिल गए, वरना हर बात अधूरी रह जाती, और दिन बस गुजर हो गया।",
+      "hinglish_display": "Shukr hai mil gaye, warna har baat adhuri reh jaati, aur din bas guzar ho gaya.",
+      "visual_prompt": "Silhouette holding hands, sunset horizon behind, fade into night lights, slow glow highlight.",
+      "audio_cue": "birds_chirping",
+      "visual_effect": "dreamy_overlay",
+      "duration_estimate": 6
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "Banpur Mandir Ka Sach",
+  "series_tag": "Real Folklore",
+  "language": "Hindi",
+  "total_duration": 37,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "उत्तराखंड के चमोली जिले में एक छोटा सा शिव मंदिर है—बानपुर महादेव। आज भी लोग रात को वहां नहीं रुकते।",
+      "hinglish_display": "Uttarakhand ke Chamoli district mein ek chhota sa Shiva mandir hai—Banpur Mahadev. Aaj bhi log raat ko wahan nahi rukte.",
+      "visual_prompt": "Real Himalayan village temple, fog drifting, lantern outside, documentary look.",
+      "sfx_cue": "mountain_wind",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 2,
+      "narration": "1902 में यहां के पुजारी की पूजा के बीच हार्ट फेलियर से मौत हो गई। तबसे मंदिर बंद हो गया।",
+      "hinglish_display": "1902 mein yahan ke pujari ki pooja ke beech heart failure se maut ho gayi. Tabse mandir bandh ho gaya.",
+      "visual_prompt": "Old archived handwritten diary pages flipping, historical filter.",
+      "sfx_cue": "paper_rustle",
+      "visual_effect": "static_noise",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 3,
+      "narration": "उसके बाद नए पुजारी—पंडित गोपाल—ने कहा कि रात को पुराना पुजारी कुएं के पास नज़र आता है।",
+      "hinglish_display": "Uske baad naye pujari—Pandit Gopal—ne kaha ki raat ko purana pujari kuan ke paas nazar aata hai.",
+      "visual_prompt": "Black-and-white reenactment: priest walking near temple well at night.",
+      "sfx_cue": "soft_footsteps",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 4,
+      "narration": "लोगों ने सुना—वो धीरे से बोलता था: 'पूजा अधूरी रह गई… जल चढ़ाना मत भूलना…'",
+      "hinglish_display": "Logon ne suna—wo dheere se bolta tha: 'Pooja adhuri reh gayi… jal chadhana mat bhoolna…'",
+      "visual_prompt": "Moon reflection in well water, faint whispering ripple effect.",
+      "sfx_cue": "layered_whispers",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 5,
+      "narration": "एक बार गांव का एक लड़का क्यूरियोसिटी में कुएं में झांक के देखने लगा… सुबह उसकी आंखें सफेद मिलीं।",
+      "hinglish_display": "Ek baar gaon ka ek ladka curiosity mein kuan mein jhaank ke dekhne laga… subah uski aankhen safed milin.",
+      "visual_prompt": "Boy staring into well, sudden blur, next shot eyes white and swollen.",
+      "sfx_cue": "distant_scream",
+      "visual_effect": "rapid_shake",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 6,
+      "narration": "तबसे गांव वालों ने नियम बना दिया—अमावस की रात मंदिर के कुएं के पास नहीं जाएंगे।",
+      "hinglish_display": "Tabse gaon walo ne niyam bana diya—amavas ki raat mandir ke kuan ke paas nahi jaayenge.",
+      "visual_prompt": "Boards placed near temple gate, hand-painted warning in Hindi.",
+      "sfx_cue": "bell_echo",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 7,
+      "narration": "आज भी लोग कहते हैं रात 12 बजे कुएं से आवाज़ आती है—'पूजा पूरी करो…'",
+      "hinglish_display": "Aaj bhi log kehte hain raat 12 baje kuan se awaaz aati hai—'Pooja poori karo…'",
+      "visual_prompt": "Still shot of temple well at night, light flicker, wind shaking leaves.",
+      "sfx_cue": "whisper_hit",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 5.0
+    }
+  ]
+}

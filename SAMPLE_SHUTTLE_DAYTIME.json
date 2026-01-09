@@ -1,0 +1,44 @@
+{
+  "title": "Din Mein Jo Dikha",
+  "series_tag": "Short Daytime Shuttle Horror",
+  "language": "Hindi",
+  "total_duration": 30,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "दोपहर की शटल थी, धूप तेज़ थी। अनशिका अकेली खिड़की वाली सीट पर बैठी थी। बाकी सीटें खाली… बिल्कुल खाली।",
+      "hinglish_display": "Dopahar ki shuttle thi, dhoop tez thi. Anshika akeli khidki wali seat par baithi thi. Baaki seats khaali… bilkul khaali.",
+      "visual_prompt": "Bright daylight inside shuttle, dust floating, wide empty seats.",
+      "audio_cue": "city_ambience",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 7.0
+    },
+    {
+      "id": 2,
+      "narration": "चलते-चलते अनशिका ने शीशे में देखा—पीछे वाली सीट पर कोई बैठा हुआ है। लेकिन असल सीट खाली थी।",
+      "hinglish_display": "Chalte-chalte Anshika ne sheeshe mein dekha—peeche wali seat par koi baitha hua hai. Lekin asal seat khaali thi.",
+      "visual_prompt": "Reflection showing faint silhouette behind her.",
+      "audio_cue": "heartbeat",
+      "visual_effect": "chromatic_aberration",
+      "duration_estimate": 7.0
+    },
+    {
+      "id": 3,
+      "narration": "फिर वो चेहरा थोड़ा पास आ गया—बाल सामने, सफेद शर्ट, पर सीधे माथे पर कंपनी का लोगो उल्टा चमक रहा था।",
+      "hinglish_display": "Phir wo chehra thoda paas aa gaya—baal saamne, safed shirt, par seedhe maathe par company ka logo ulta chamak raha tha.",
+      "visual_prompt": "Reflection zoom-in without body movement.",
+      "audio_cue": "heartbeat_fast",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 8.0
+    },
+    {
+      "id": 4,
+      "narration": "अनशिका पीछे मुड़ी—कोई नहीं। पर जब उसने फिर कांच देखा… अब याददाश्त टैग में उसका नाम लिखा था।",
+      "hinglish_display": "Anshika peeche mudi—koi nahi. Par jab usne phir kaanch dekha… ab yaaddaasht tag mein uska naam likha tha.",
+      "visual_prompt": "Reflection showing badge with name 'Anshika'. Real badge blank.",
+      "audio_cue": "whisper_hit",
+      "visual_effect": "flash_red",
+      "duration_estimate": 8.0
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Ghar Wapas Mat Aana - Part 3",
+  "series_tag": "Voice-Stealer Finale",
+  "language": "hi",
+  "genre": "horror",
+  "total_duration": 38,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "असली अनन्या धीरे-धीरे मुड़ी… उसकी आवाज़ पूरी तरह गायब थी। पर होंठ खुद-ब-खुद बोल रहे थे— 'माँ… मैं नीचे वाली हूँ।'",
+      "hinglish_display": "Asli Ananya dheere-dheere mudi… uski awaaz poori tarah gayab thi. Par hoth khud-ba-khud bol rahe the— 'Maa… main neeche wali hoon.'",
+      "visual_prompt": "Girl turning slowly, expression empty, lips moving without sound.",
+      "audio_cue": "low_drone",
+      "visual_effect": "chromatic_aberration",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 2,
+      "narration": "माँ पीछे हट गईं… 'तुम… मेरी बेटी नहीं हो।' तभी सीढ़ियों से खड़खड़ाती हड्डियों जैसी आवाज़ आई।",
+      "hinglish_display": "Maa peeche hat gayin… 'Tum… meri beti nahi ho.' Tabhi seedhiyon se khadkhadati haddiyon jaisi awaaz aayi.",
+      "visual_prompt": "Dark stairwell, bone-crack echoes rising upward.",
+      "audio_cue": "payal_sound",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 3,
+      "narration": "नीचे वाली नकली अनन्या ऊपर चढ़ रही थी… पर उसके पैर उल्टे मुड़कर पीछे की तरफ थे।",
+      "hinglish_display": "Neeche wali nakkli Ananya upar chadh rahi thi… par uske pair ulte mudkar peeche ki taraf the.",
+      "visual_prompt": "Entity climbing stairs unnaturally, legs bent backward.",
+      "audio_cue": "temple_bell_reverse",
+      "visual_effect": "static_noise",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 4,
+      "narration": "माँ ने असली अनन्या का हाथ पकड़ा— पर उसका हाथ बर्फ जैसा ठंडा था… और धड़कन बिल्कुल नहीं।",
+      "hinglish_display": "Maa ne asli Ananya ka haath pakda— par uska haath barf jaisa thanda tha… aur dhadkan bilkul nahi.",
+      "visual_prompt": "Mother holding daughter's cold hand, pulse absent.",
+      "audio_cue": "heartbeat_rising",
+      "visual_effect": "lens_dirt_fog",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 5,
+      "narration": "अचानक दोनों अनन्या एक साथ बोल उठीं— 'माँ… बताओ… असली कौन है?'",
+      "hinglish_display": "Achanak dono Ananya ek saath bol uthin— 'Maa… batao… asli kaun hai?'",
+      "visual_prompt": "Two identical silhouettes speaking in unison, faces flickering.",
+      "audio_cue": "whisper_drone",
+      "visual_effect": "chromatic_aberration",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 6,
+      "narration": "घर की लाइट्स एक झटके में बुझ गईं। अँधेरे में बस एक आवाज़ गूंज रही थी— 'जो डरता है… उसकी आवाज़ पहले लेता हूँ।'",
+      "hinglish_display": "Ghar ki lights ek jhatke me bujh gayin. Andhere me bas ek awaaz goonj rahi thi— 'Jo darta hai… uski awaaz pehle leta hoon.'",
+      "visual_prompt": "Blackout room, only glowing eyes appearing in darkness.",
+      "audio_cue": "low_drone",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 7,
+      "narration": "अंधेरे में माँ चीख पड़ीं… पर वो चीख उनकी नहीं थी। वो… अनन्या की थी। वही जो अभी गायब हुई थी।",
+      "hinglish_display": "Andhere me Maa cheekh padi… par woh cheekh unki nahi thi. Woh… Ananya ki thi. Wahi jo abhi gayab hui thi.",
+      "visual_prompt": "Mother clutching ears as a stolen scream fills the room.",
+      "audio_cue": "echoing_scream",
+      "visual_effect": "rapid_shake",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 8,
+      "narration": "लाइट लौटी… और सिर्फ एक अनन्या बची थी। वो मुस्कुरा रही थी। असली वाली… या नकली… माँ समझ नहीं पाईं।",
+      "hinglish_display": "Light lauti… aur sirf ek Ananya bachi thi. Woh muskurra rahi thi. Asli wali… ya nakkli… Maa samajh nahi paayin.",
+      "visual_prompt": "One Ananya standing calmly, smiling unnaturally, eyes fixed on camera.",
+      "audio_cue": "whisper_drone",
+      "visual_effect": "slow_zoom_glitch",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 9,
+      "narration": "पर डरावना मोड़ तब आया… जब नीचे फ़ोन बजा। स्क्रीन पर नाम था— 'अनन्या'.",
+      "hinglish_display": "Par darawna mod tab aaya… jab neeche phone baja. Screen par naam tha— 'Ananya'.",
+      "visual_prompt": "Phone vibrating on table, caller ID: 'Ananya'.",
+      "audio_cue": "temple_bell_reverse",
+      "visual_effect": "fade_to_black",
+      "duration_estimate": 5.0
+    }
+  ]
+}

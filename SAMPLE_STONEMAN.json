@@ -1,0 +1,68 @@
+{
+  "title": "The Stoneman - Part 1",
+  "series_tag": "True Crime India",
+  "language": "hi",
+  "total_duration": 32,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "India का एक ऐसा सीरियल किलर जिसे पुलिस आज तक नहीं पकड़ पाई।",
+      "hinglish_display": "India ka ek aisa Serial Killer jise Police aaj tak nahi pakad paayi.",
+      "visual_prompt": "Old 1980s style police file photo on a desk, stamped 'UNSOLVED', moody lighting, detective atmosphere.",
+      "sfx_cue": "camera_shutter",
+      "visual_effect": "static_noise",
+      "effect_timestamp": 2.5,
+      "duration_estimate": 4.5
+    },
+    {
+      "id": 2,
+      "narration": "ये बात है 1985 की। मुंबई की सड़कों पर एक खौफनाक खेल शुरू हुआ।",
+      "hinglish_display": "Ye baat hai 1985 ki. Mumbai ki sadkon par ek khaufnaak khel shuru hua.",
+      "visual_prompt": "Mumbai streets at night in 1980s, old yellow street lights, empty footpath, fog, retro aesthetic.",
+      "sfx_cue": "city_ambience",
+      "visual_effect": "slow_zoom_in",
+      "effect_timestamp": 2.5,
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 3,
+      "narration": "रात को सोते हुए लोगों के सर को... एक भारी पत्थर से कुचल दिया जाता था।",
+      "hinglish_display": "Raat ko sote hue logon ke sar ko... ek bhaari patthar se kuchal diya jaata tha.",
+      "visual_prompt": "A large, heavy, jagged concrete stone lying on the ground, dramatic shadows, high contrast, threatening.",
+      "sfx_cue": "heavy_impact",
+      "visual_effect": "rapid_shake",
+      "effect_timestamp": 4.0,
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 4,
+      "narration": "कोई चोरी नहीं, कोई दुश्मनी नहीं। सिर्फ मौत। इसका नाम पड़ा: 'The Stoneman'.",
+      "hinglish_display": "Koi chori nahi, koi dushmani nahi. Sirf maut. Iska naam pada: 'The Stoneman'.",
+      "visual_prompt": "Newspaper headline montage from 1985: 'STONEMAN STRIKES AGAIN', 'TERROR IN BOMBAY', old paper texture.",
+      "sfx_cue": "static_burst",
+      "visual_effect": "flash_red",
+      "effect_timestamp": 3.5,
+      "duration_estimate": 5.5
+    },
+    {
+      "id": 5,
+      "narration": "6 महीने में 13 खून हुए। पुलिस ने पूरी ताकत लगा दी, पर वो गायब हो गया।",
+      "hinglish_display": "6 maheene mein 13 khoon hue. Police ne poori taakat laga di, par wo gayab ho gaya.",
+      "visual_prompt": "Silhouette of a man walking away into thick fog under a street light, wearing ragged clothes.",
+      "sfx_cue": "police_siren",
+      "visual_effect": "vignette_pulse",
+      "effect_timestamp": 3.0,
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 6,
+      "narration": "सबको लगा वो मर गया... लेकिन ठीक 4 साल बाद, वो वापस आया। कहाँ? देखिए Part 2 में।",
+      "hinglish_display": "Sabko laga wo mar gaya... lekin theek 4 saal baad, wo wapas aaya. Kahan? Dekhiye Part 2 mein.",
+      "visual_prompt": "Map of India, red line moving from Mumbai to Kolkata, text overlay 'PART 2: THE RETURN'.",
+      "sfx_cue": "drone_low",
+      "visual_effect": "slow_zoom_in",
+      "effect_timestamp": 3.0,
+      "duration_estimate": 5.0
+    }
+  ]
+}

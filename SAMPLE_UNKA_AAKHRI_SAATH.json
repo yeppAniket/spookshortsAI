@@ -1,0 +1,54 @@
+{
+  "title": "Unka Aakhri Saath",
+  "series_tag": "Heartbreak Diaries",
+  "language": "hi",
+  "genre": "romance",
+  "total_duration": 35,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "कल तुम्हें किसी और के साथ मुस्कुराते देखा… और मेरे दिल ने चुप रहना सीख लिया।",
+      "hinglish_display": "Kal tumhe kisi aur ke saath muskurate dekha… dil ne chup rehna seekh liya.",
+      "visual_prompt": "Blue hour mein cafe ke bahar ek akela aadmi, glass par baarish ke droplets, purple aur cyan neon reflection, city backdrop blur.",
+      "audio_cue": "rain_soft",
+      "visual_effect": "soft_blur",
+      "duration_estimate": 6.5
+    },
+    {
+      "id": 2,
+      "narration": "तुम उसका हाथ ऐसे पकड़े थी… जैसे कभी मेरा पकड़ती थी।",
+      "hinglish_display": "Tum uska haath waise hi pakde thi… jaise mera pakadti thi.",
+      "visual_prompt": "Rainy street pe silhouette couple, neon board ki light face par soft glow, ground par wet reflections shimmering.",
+      "audio_cue": "soft_piano",
+      "visual_effect": "warm_glow",
+      "duration_estimate": 6
+    },
+    {
+      "id": 3,
+      "narration": "मेरे खत अब भी खिड़की के पास रखे हैं… हवा आती है तो थोड़ा उड़ जाते हैं।",
+      "hinglish_display": "Mere khat ab bhi khidki ke paas rakhe hain… hawa udha le jaati hai.",
+      "visual_prompt": "Dim room, wooden desk pe folded letter pages, sheer curtains wind se flap, yellow lamp lighting floating dust ke saath.",
+      "audio_cue": "gentle_strings",
+      "visual_effect": "gentle_fade",
+      "duration_estimate": 6.5
+    },
+    {
+      "id": 4,
+      "narration": "शायद तुम बदल गई… शायद मैं वहीं रह गया। वक़्त ने हम दोनों को अलग रास्ते दे दिए।",
+      "hinglish_display": "Shayad tum badal gayi… shayad main ruk gaya. Waqt ne alag raaste de diye.",
+      "visual_prompt": "Night railway platform, ek ladka khada train ke jaate hue lights ke opposite, neon signs flickering, smoke softly rising.",
+      "audio_cue": "acoustic_guitar",
+      "visual_effect": "dreamy_overlay",
+      "duration_estimate": 7
+    },
+    {
+      "id": 5,
+      "narration": "पर आज भी दिल पूछता है… तुम सच में खुश हो या बस दिखावा है?",
+      "hinglish_display": "Aaj bhi dil poochta hai… tum sach me khush ho ya bas dikhawa?",
+      "visual_prompt": "Window glass pe ek raindrop slide, blur city lights behind, reflection of a faint half-smile shadowed look.",
+      "audio_cue": "rain_soft",
+      "visual_effect": "bokeh_hearts",
+      "duration_estimate": 9
+    }
+  ]
+}

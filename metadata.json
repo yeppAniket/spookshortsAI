@@ -1,5 +1,0 @@
-{
-  "name": "SpookShorts AI",
-  "description": "Automated Horror Shorts Generator for YouTube using Gemini 2.5 Flash, Image Generation, and TTS.",
-  "requestFramePermissions": []
-}

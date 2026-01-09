@@ -1,0 +1,54 @@
+{
+  "title": "Perfect Timing",
+  "series_tag": "Midnight Thoughts",
+  "language": "hi",
+  "genre": "romance",
+  "total_duration": 32,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "कहते थे इत्तफ़ाक़ नहीं होते, पर तुम मिली थी बिल्कुल सही वक़्त पे।",
+      "hinglish_display": "Kehte the ittefaak nahi hote, par tum mili thi bilkul sahi waqt pe.",
+      "visual_prompt": "Golden sunset on balcony, girl and boy laughing, hands brushing lightly, soft breeze moving hair, dreamy lens glow.",
+      "audio_cue": "soft_piano",
+      "visual_effect": "warm_glow",
+      "duration_estimate": 6
+    },
+    {
+      "id": 2,
+      "narration": "थका था दिल, टूटी थी राहें, तुम आई जैसे दवा थके हुए वक्त पे।",
+      "hinglish_display": "Thaka tha dil, tooti thi raahen, tum aayi jaise dawa thake hue waqt pe.",
+      "visual_prompt": "Night street with fairy lights, holding warm coffee, both sitting roadside, smiling side glances, minimal crowd.",
+      "audio_cue": "gentle_strings",
+      "visual_effect": "soft_blur",
+      "duration_estimate": 6.5
+    },
+    {
+      "id": 3,
+      "narration": "ना वादा, ना कोई शर्त, बस बातें हुईं दिल की हर हद से।",
+      "hinglish_display": "Na wada, na koi shart, bas baatein hui dil ki har had se.",
+      "visual_prompt": "Cafe interior, window reflections, close-up hands tapping table, two cups steaming, subtle neon bokeh behind.",
+      "audio_cue": "acoustic_guitar",
+      "visual_effect": "bokeh_hearts",
+      "duration_estimate": 6
+    },
+    {
+      "id": 4,
+      "narration": "जो डर था खो जाने का, मिट गया हर कदम तुम्हारे साथ चलते से।",
+      "hinglish_display": "Jo dar tha kho jaane ka, mit gaya har kadam tumhare saath chalte se.",
+      "visual_prompt": "Slow walk on bridge, streetlights making halo, matching footsteps, soft rain mist glowing under yellow bulbs.",
+      "audio_cue": "rain_soft",
+      "visual_effect": "gentle_fade",
+      "duration_estimate": 6
+    },
+    {
+      "id": 5,
+      "narration": "कहते हो किस्मत? मुझे लगता है दुआ थी... जो पूरी हुई तुम्हें रखते से।",
+      "hinglish_display": "Kehte ho kismat? Mujhe lagta hai dua thi... jo poori hui tumhe rakhte se.",
+      "visual_prompt": "Close-up of fingers interlocking, camera rotates upward revealing moonlit sky, twinkling city lights below.",
+      "audio_cue": "birds_chirping",
+      "visual_effect": "dreamy_overlay",
+      "duration_estimate": 7
+    }
+  ]
+}

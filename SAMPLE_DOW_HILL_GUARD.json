@@ -1,0 +1,71 @@
+{
+  "title": "Dow Hill Ki Raat Ka Guard",
+  "series_tag": "Real Case — Kurseong (West Bengal)",
+  "language": "Hindi",
+  "total_duration": 37,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "2009 में, Dow Hill के जंगल में रात की ड्यूटी के लिए एक फॉरेस्ट गार्ड को तैनात किया गया। उसका नाम था—रंजीत लामा।",
+      "hinglish_display": "2009 mein, Dow Hill ke jungle mein raat ki duty ke liye ek forest guard tainaat kiya gaya. Uska naam tha—Ranjeet Lama.",
+      "visual_prompt": "Forest guard holding lantern, walking alone through dense fog near wooden cabin.",
+      "audio_cue": "wet_leaf_crunch",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 2,
+      "narration": "एक रात उसने जंगल से बच्चे के रोने की आवाज सुनी। आवाज बिल्कुल साफ थी—जैसे पास से आ रही हो।",
+      "hinglish_display": "Ek raat usne jungle se bachche ke rone ki awaaz suni. Awaaz bilkul saaf—jaise paas se aa rahi ho.",
+      "visual_prompt": "Lantern light flickering, fog vibrating, faint cry echoing.",
+      "audio_cue": "soft_child_sob",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 3,
+      "narration": "वो टॉर्च लेकर आवाज की ओर गया। लेकिन वहां कोई नहीं था। सिर्फ पेड़ों पर खून जैसे निशान बने थे।",
+      "hinglish_display": "Woh torch lekar awaaz ki taraf gaya. Lekin wahan koi nahi tha. Sirf pedon par khoon jaise nishaan bane the.",
+      "visual_prompt": "Torch beam sliding across tree bark streaks resembling blood.",
+      "audio_cue": "heartbeat_thud",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 4,
+      "narration": "कुछ सेकंड बाद, उसी जगह उसे एक धुंधला सा लड़का खड़ा दिखाई दिया—गर्दन के पास गहरा कट।",
+      "hinglish_display": "Kuch second baad, usi jagah usse ek dhundhla sa ladka dikha—gardan ke paas gehra cut.",
+      "visual_prompt": "Mist forming silhouette of a small boy, visible wound glow.",
+      "audio_cue": "metal_scrape_hit",
+      "visual_effect": "flash_red",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 5,
+      "narration": "रंजीत चीखा और वापिस कैम्प भाग आया। अगले दिन उसने नौकरी छोड़ दी।",
+      "hinglish_display": "Ranjeet cheekha aur wapas camp bhaag aaya. Agle din usne naukari chhod di.",
+      "visual_prompt": "Guard running with lantern, stumbling over branches.",
+      "audio_cue": "rapid_breathing",
+      "visual_effect": "rapid_shake",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 6,
+      "narration": "लेकिन जाने से पहले उसने एक लाइन बोली—'ये बच्चा यहां अकेला नहीं होता। पीछे हमेशा कोई और भी चलता है… दिखता नहीं।'",
+      "hinglish_display": "Lekin jaane se pehle usne ek line boli—'Yeh bachcha yahan akela nahi hota. Peeche hamesha koi aur bhi chalta hai… dikhta nahi.'",
+      "visual_prompt": "Black forest trail, faint footsteps sound layered.",
+      "audio_cue": "soft_whisper_tail",
+      "visual_effect": "chromatic_aberration",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 7,
+      "narration": "रंजीत आज भी उस incident के बाद रात में अकेले नहीं चलता। कहता है—'जो मैंने देखा… वो इंसान नहीं था।'",
+      "hinglish_display": "Ranjeet aaj bhi incident ke baad raat me akela nahi chalta. Kehta hai—'Jo maine dekha… wo insaan nahi tha.'",
+      "visual_prompt": "Interview-style shot with blurred face, dim room.",
+      "audio_cue": "reverse_heartbeat",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 7.0
+    }
+  ]
+}

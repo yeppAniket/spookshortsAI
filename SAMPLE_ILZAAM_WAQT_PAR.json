@@ -1,0 +1,45 @@
+{
+  "title": "Ilzaam Waqt Par",
+  "series_tag": "Midnight Thoughts",
+  "language": "hi",
+  "genre": "poetry",
+  "total_duration": 28,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "वो जो कहते थे कि हम एक दूसरे के बिना अधूरे हैं...",
+      "hinglish_display": "Woh jo kehte the hum adhure hain...",
+      "visual_prompt": "Cinematic shot, POV looking out a rain-covered car window at city lights, bokeh effect, melancholic blue and teal color palette, 4k resolution, moody atmosphere.",
+      "audio_cue": "rain_soft",
+      "visual_effect": "soft_blur",
+      "duration_estimate": 6.5
+    },
+    {
+      "id": 2,
+      "narration": "सुना है आज वो किसी और के साथ 'पूरे' हो गए।",
+      "hinglish_display": "Suna hai aaj woh kisi aur ke saath 'poore' ho gaye.",
+      "visual_prompt": "Wide shot, silhouette of a couple holding hands walking away under a street lamp in the distance, foggy night, sharp focus on empty park bench in foreground, cinematic lighting.",
+      "audio_cue": "gentle_strings",
+      "visual_effect": "gentle_fade",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 3,
+      "narration": "शिकायत नहीं है उनसे, बस हैरानी है इस बात की...",
+      "hinglish_display": "Shikayat nahi, bas hairani hai...",
+      "visual_prompt": "Close up, side profile of a lonely person smoking or breathing out cold air (condensation), standing on a balcony, staring at the moon, neon sign reflection on face, moody urban vibe.",
+      "audio_cue": "soft_piano",
+      "visual_effect": "dreamy_overlay",
+      "duration_estimate": 7.0
+    },
+    {
+      "id": 4,
+      "narration": "कि बदल लोग जाते हैं... और इल्ज़ाम वक़्त पर आता है।",
+      "hinglish_display": "Badal log jaate hain, ilzaam waqt par aata hai.",
+      "visual_prompt": "Top-down view of an hourglass with sand running out, but the sand turns into ash, dramatic lighting, black background, high contrast, macro photography.",
+      "audio_cue": "acoustic_guitar",
+      "visual_effect": "bokeh_hearts",
+      "duration_estimate": 8.5
+    }
+  ]
+}

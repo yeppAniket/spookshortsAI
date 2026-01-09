@@ -1,0 +1,63 @@
+{
+  "title": "Room 309 – Saans Leta Kamra",
+  "series_tag": "Hostel/PG Horror — Viral Incident",
+  "language": "hi",
+  "genre": "horror",
+  "total_duration": 37,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "कभी किसी हॉस्टल का वो रूम देखा है… जहां दरवाज़ा खोलते ही लगता है कोई अंदर… सांस ले रहा हो?",
+      "hinglish_display": "Kabhi hostel ka woh room dekha hai… jaha darwaza kholte hi lagta hai koi andar… saans le raha ho?",
+      "visual_prompt": "Dim hostel corridor, one flickering tube light, door labelled 309 slightly trembling.",
+      "audio_cue": "whisper_drone",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 2,
+      "narration": "अमन को 309 दिया गया था। पहली रात ही उसने बोला—'भाई रूम अजीब लगता है… जैसे दीवारें हल्का सा हिल रही हों।'",
+      "hinglish_display": "Aman ko 309 mila. Pehli raat hi bola—'Bhai room ajeeb lagta hai… jaise deewarein halka sa hil rahi ho.'",
+      "visual_prompt": "Boy entering room, walls pulsating subtly, shadows crawling upward.",
+      "audio_cue": "low_drone",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 3,
+      "narration": "रात को 3 बजे उसने आवाज़ सुनी—*कोई नीचे बंक बेड से धीरे से बोल रहा था:* 'अंदर मत आना…'",
+      "hinglish_display": "Raat ko 3 baje awaaz aayi—bunk bed se koi dheere se bol raha tha: 'andar mat aana…'",
+      "visual_prompt": "Bunk bed lower portion pitch-black, lips faintly moving in darkness.",
+      "audio_cue": "temple_bell_reverse",
+      "visual_effect": "static_noise",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 4,
+      "narration": "अमन ने टॉर्च दिखाई… बेड बिल्कुल खाली। पर आवाज़ अब सीधा उसके कान के पास से आई—'मैंने बोला ना… अंदर मत आना।'",
+      "hinglish_display": "Aman ne torch dikhayi… bed khaali. Par awaaz uske kaan ke paas se aayi—'maine bola na… andar mat aana.'",
+      "visual_prompt": "Flashlight shaking, empty bed, faint silhouette forming right behind him.",
+      "audio_cue": "heartbeat_rising",
+      "visual_effect": "rapid_shake",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 5,
+      "narration": "तब उसने देखा… रूम की दीवार फूल रही थी। जैसे कोई आदमी… उसके अंदर से बाहर निकलने की कोशिश कर रहा हो।",
+      "hinglish_display": "Tab usne dekha… room ki deewar phool rahi thi. Jaise koi aadmi andar se bahar aa raha ho.",
+      "visual_prompt": "Wall ballooning outward with human-shaped distortion pressing from inside.",
+      "audio_cue": "payal_sound",
+      "visual_effect": "chromatic_aberration",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 6,
+      "narration": "अमन चीख के भाग गया… पर हॉस्टल वाले आज भी कहते हैं—309 की दीवारें रात को सांस लेती हैं। और जो भी सुनता है… वो कहता है—'अंदर मत आना।'",
+      "hinglish_display": "Aman bhaag gaya… par 309 ki deewarein aaj bhi saans leti hain. Aur jo bhi sunta hai… kehta hai—'andar mat aana…'",
+      "visual_prompt": "Hostel corridor, door 309 expanding slightly with breathing motion.",
+      "audio_cue": "echoing_scream",
+      "visual_effect": "fade_to_black",
+      "duration_estimate": 6.0
+    }
+  ]
+}

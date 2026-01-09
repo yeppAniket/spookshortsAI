@@ -1,0 +1,63 @@
+{
+  "title": "Jab Dil Chup Ho Jaata Hai",
+  "series_tag": "Heartbreak Diaries",
+  "language": "hi",
+  "genre": "romance",
+  "total_duration": 32,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "तुम ग़ायब तो हुई थीं, पर यादें आज भी आती हैं।",
+      "hinglish_display": "Tum gaayab to hui thin, par yaadein aaj bhi aati hain.",
+      "visual_prompt": "cinematic blue-hour rooftop, lonely boy leaning on railing, empty city streets below, soft drizzle, neon reflections on wet concrete, wind moving hoodie strings",
+      "audio_cue": "rain_soft",
+      "visual_effect": "soft_blur",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 2,
+      "narration": "तुम्हारी हँसी की गूंज, मेरी रातों को चुभ जाती है।",
+      "hinglish_display": "Tumhaari hansi ki goonj, meri raato ko chubh jaati hai.",
+      "visual_prompt": "close-up shot through rain-soaked window, blurred memory of a girl laughing, warm golden bokeh fading into cold blue tones",
+      "audio_cue": "soft_piano",
+      "visual_effect": "gentle_fade",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 3,
+      "narration": "जो कल तक मेरा था, अब किसी और का कहलाता है।",
+      "hinglish_display": "Jo kal tak mera tha, ab kisi aur ka kehlaata hai.",
+      "visual_prompt": "silhouette of girl walking away into neon alley, boy standing still under streetlight, rain streaks on lens, cinematic depth",
+      "audio_cue": "gentle_strings",
+      "visual_effect": "bokeh_hearts",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 4,
+      "narration": "दिल मान लेता है सब कुछ, पर आँखें अब भी भर जाती हैं।",
+      "hinglish_display": "Dil maan leta hai sab kuch, par aankhein ab bhi bhar jaati hain.",
+      "visual_prompt": "extreme close-up of eyes reflecting city lights, subtle tear rolling, neon pink and cyan palette, shallow depth of field",
+      "audio_cue": "acoustic_guitar",
+      "visual_effect": "warm_glow",
+      "duration_estimate": 7.0
+    },
+    {
+      "id": 5,
+      "narration": "शायद तुम ठीक हो… पर मैं आज भी खुद से जंग लड़ता हूँ।",
+      "hinglish_display": "Shaayad tum theek ho… par main aaj bhi khud se jang ladta hoon.",
+      "visual_prompt": "faceless boy walking alone on empty road at night, headlights passing behind him, rain mist glowing in amber streetlights, melancholic cinematic mood",
+      "audio_cue": "birds_chirping",
+      "visual_effect": "dreamy_overlay",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 6,
+      "narration": "और सच कहूँ… टूटकर भी मुस्कुराना ही मेरी सबसे बड़ी सज़ा बन गया है।",
+      "hinglish_display": "Aur sach kahun… tootkar bhi muskurana hi meri sabse badi saza ban gaya hai.",
+      "visual_prompt": "moody medium shot, boy forcing a smile in reflection of a fogged café window, city lights shimmering behind, cinematic rain dripping",
+      "audio_cue": "rain_soft",
+      "visual_effect": "gentle_fade",
+      "duration_estimate": 6.0
+    }
+  ]
+}

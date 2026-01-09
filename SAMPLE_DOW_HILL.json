@@ -1,0 +1,62 @@
+{
+  "title": "Dow Hill Ki Laash",
+  "series_tag": "Real Case — Kurseong (West Bengal)",
+  "language": "Hindi",
+  "total_duration": 35,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "कुरसियांग… पश्चिम बंगाल का एक छोटा सा हिल स्टेशन। लेकिन शाम होते ही यहां लोग घर से बाहर नहीं निकलते। वजह—100 से ज़्यादा अनसुलझी मौतें।",
+      "hinglish_display": "Kurseong… West Bengal ka chhota hill station. Par shaam hote hi log ghar se bahar nahi nikalte. Vajah—100 se zyada unsolved deaths.",
+      "visual_prompt": "Foggy mountain town at dusk, empty road, dim streetlight flickering.",
+      "sfx_cue": "deep_ambient_dread",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 2,
+      "narration": "1892 से 2008 तक Dow Hill Road पर चलते हुए कई लोगों की लाशें मिलीं—बिना किसी झगड़े या एक्सीडेंट के।",
+      "hinglish_display": "1892 se 2008 tak Dow Hill Road par chalte hue kai logon ki laashein mili—bina kisi jhagade ya accident ke.",
+      "visual_prompt": "Police flashlight scanning dense forest, blurry human silhouettes.",
+      "sfx_cue": "low_radio_crackle",
+      "visual_effect": "static_noise",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 3,
+      "narration": "2008 में एक लकड़हारे ने जंगल में एक लड़के का कटे सिर वाला शरीर देखा। पुलिस ने जांच की… सिर नहीं मिला।",
+      "hinglish_display": "2008 mein ek lakadhare ne jungle mein ek ladke ka kate sir wala jism dekha. Police ne jaanch ki… sir nahi mila.",
+      "visual_prompt": "Close-up focus on shoes of body, police chalk marking, high fog density.",
+      "sfx_cue": "sharp_dull_hit",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 4,
+      "narration": "सीसीटीवी में बस इतना दिखा—लड़का अकेले जंगल में जा रहा था। उसके बाद वो कभी दिखाई नहीं दिया।",
+      "hinglish_display": "CCTV mein sirf itna dikhha—ladka akela jungle mein ja raha tha. Uske baad wo kabhi dikhai nahi diya.",
+      "visual_prompt": "CCTV footage look: boy walking into misty forest lane, timestamp glitching.",
+      "sfx_cue": "static_crackle",
+      "visual_effect": "static_noise",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 5,
+      "narration": "उसके पिता ने कहा—'उस दिन किसी ने उसे घर से बुलाया था… लेकिन किसने, पता नहीं।' पुलिस के पास कोई कॉल रिकॉर्ड नहीं मिला।",
+      "hinglish_display": "Uske pita ne kaha—'Us din kisi ne use ghar se bulaya tha… par kisne, pata nahi.' Police ke paas koi call record nahi mila.",
+      "visual_prompt": "Father crying inside small house, newspaper cutouts on wall.",
+      "sfx_cue": "slow_heartbeat",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 6,
+      "narration": "उस केस को 'अज्ञात मृत्यु' कहकर बंद कर दिया गया। लेकिन आज भी Dow Hill के जंगल से लोग रात में चीख सुनते हैं।",
+      "hinglish_display": "Woh case 'unknown death' kehkar band kar diya gaya. Par aaj bhi Dow Hill ke jungle se log raat me cheekh sunte hain.",
+      "visual_prompt": "Wide aerial of dark forest, slow pan, faint silhouettes.",
+      "sfx_cue": "echoing_scream",
+      "visual_effect": "rapid_shake",
+      "duration_estimate": 6.0
+    }
+  ]
+}

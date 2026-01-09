@@ -1,0 +1,33 @@
+{
+  "title": "Woh Aakhri Baar",
+  "series_tag": "Catchy Breakup Shayari",
+  "language": "hi",
+  "genre": "romance",
+  "total_duration": 18,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "जिस दिन उसने कहा—'अब तुम्हारी ज़रूरत नहीं'… उसी दिन मैंने आईने में खुद को गले लगा लिया।",
+      "visual_prompt": "Girl looking at mirror, hugging herself quietly.",
+      "sfx_cue": "soft_piano",
+      "visual_effect": "soft_blur",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 2,
+      "narration": "किसी और को पाने की जल्दी थी उसे… मैं खुद को संभालने में लग गया।",
+      "visual_prompt": "City night lights passing through car window.",
+      "sfx_cue": "gentle_strings",
+      "visual_effect": "warm_glow",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 3,
+      "narration": "वो कहती थी—'तुम कम हो'… आज वही लोग पूछते हैं कि तुम जैसे मिले कहाँ।",
+      "visual_prompt": "Walking confidently toward sunrise.",
+      "sfx_cue": "acoustic_guitar",
+      "visual_effect": "gentle_fade",
+      "duration_estimate": 6.0
+    }
+  ]
+}

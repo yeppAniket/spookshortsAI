@@ -1,0 +1,90 @@
+{
+  "title": "Ghar Wapas Mat Aana - Part 1",
+  "series_tag": "Ultra Viral Indian Horror",
+  "language": "hi",
+  "genre": "horror",
+  "total_duration": 38,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "अगर कभी कोई तुम्हारी ही आवाज़ में तुम्हें फोन करे... पर तुम वहाँ हो ही ना... तो तुरन्त भाग जाना।",
+      "hinglish_display": "Agar kabhi koi tumhari hi awaaz me tumhe phone kare... par tum wahan ho hi na... toh turant bhaag jaana.",
+      "visual_prompt": "Phone ringing in dark cab, eerie glow on girl's face.",
+      "audio_cue": "whisper_drone",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 2,
+      "narration": "अनन्या रात डेढ़ बजे ऑफिस से निकली ही थी कि माँ का फोन आया। उसने पिक किया... 'हाँ माँ—'",
+      "hinglish_display": "Ananya raat dedh baje office se nikli hi thi ki Maa ka phone aaya. Usne pick kiya... 'Haan Maa—'",
+      "visual_prompt": "Late-night street, girl entering cab, phone lighting her face.",
+      "audio_cue": "low_drone",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 3,
+      "narration": "पर उधर से... उसकी ही आवाज़ आई: 'बेटा... घर वापस मत आना।'",
+      "hinglish_display": "Par udhar se... uski hi awaaz aayi: 'Beta... ghar wapas mat aana.'",
+      "visual_prompt": "Phone speaker close-up, waveform glitching.",
+      "audio_cue": "temple_bell_reverse",
+      "visual_effect": "static_noise",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 4,
+      "narration": "अनन्या सुन्न हो गई... 'माँ... ये मेरी आवाज़ कैसे?' कॉल तुरंत कट गया।",
+      "hinglish_display": "Ananya sunn ho gayi... 'Maa... ye meri awaaz kaise?' Call turant kat gaya.",
+      "visual_prompt": "Girl frozen in cab, screen showing call ended.",
+      "audio_cue": "heartbeat_rising",
+      "visual_effect": "chromatic_aberration",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 5,
+      "narration": "दस सेकंड बाद माँ का असली कॉल: 'बेटा कहाँ हो? जल्दी आओ, दरवाज़ा खुल नहीं रहा।'",
+      "hinglish_display": "Das second baad Maa ka asli call: 'Beta kahan ho? Jaldi aao, darwaza khul nahi raha.'",
+      "visual_prompt": "Incoming call labeled 'Maa', tense closeup.",
+      "audio_cue": "payal_sound",
+      "visual_effect": "rapid_shake",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 6,
+      "narration": "घर पहुँचकर माँ बिलकुल नॉर्मल थी... मुस्कुराते हुए बोली: 'आओ बेटा।'",
+      "hinglish_display": "Ghar pahunchkar Maa bilkul normal thi... muskurate hue boli: 'Aao beta.'",
+      "visual_prompt": "Dimly lit hallway, mother smiling unnaturally.",
+      "audio_cue": "low_drone",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 7,
+      "narration": "अनन्या ने पूछा— 'आपने कॉल क्यों किया?' माँ बोली— 'मैंने तो कॉल किया ही नहीं... हम तो सो रहे थे।'",
+      "hinglish_display": "Ananya ne poocha— 'Aapne call kyu kiya?' Maa boli— 'Maine toh call kiya hi nahi... hum toh so rahe the.'",
+      "visual_prompt": "Mother confused, light flickering.",
+      "audio_cue": "whisper_drone",
+      "visual_effect": "lens_dirt_fog",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 8,
+      "narration": "तभी बेडरूम के अंदर से अनन्या की आवाज़ आई: 'माँ... मैं हूँ। दरवाज़ा मत खोलना।'",
+      "hinglish_display": "Tabhi bedroom ke andar se Ananya ki awaaz aayi: 'Maa... main hoon. Darwaza mat kholna.'",
+      "visual_prompt": "Closed bedroom door, shadow visible underneath.",
+      "audio_cue": "temple_bell_reverse",
+      "visual_effect": "static_noise",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 9,
+      "narration": "माँ का चेहरा सफ़ेद पड़ गया। दरवाज़ा हल्का सा खुला... और वही आवाज़ बोली: 'माँ... वो मेरे साथ कौन खड़ी है?'",
+      "hinglish_display": "Maa ka chehra safed pad gaya. Darwaza halka sa khula... aur wahi awaaz boli: 'Maa... woh mere saath kaun khadi hai?'",
+      "visual_prompt": "Door cracking open, two silhouettes inside.",
+      "audio_cue": "echoing_scream",
+      "visual_effect": "fade_to_black",
+      "duration_estimate": 5.0
+    }
+  ]
+}

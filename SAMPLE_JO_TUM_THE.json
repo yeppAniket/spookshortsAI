@@ -1,0 +1,54 @@
+{
+  "title": "Jo Tum the…",
+  "series_tag": "Heartbreak Diaries",
+  "language": "hi",
+  "genre": "romance",
+  "total_duration": 32,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "कभी लगा था तुम मेरे हो, पर वक़्त ने सब बदल दिया।",
+      "hinglish_display": "Kabhi laga tha tum mere ho, par waqt ne sab badal diya.",
+      "visual_prompt": "Cinematic close-up of rain sliding down a bus window, blurred city neon outside, lonely silhouette staring out, blue-hour lighting, soft depth-of-field.",
+      "audio_cue": "rain_soft",
+      "visual_effect": "soft_blur",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 2,
+      "narration": "दिल ने रोकने की कोशिश की, पर सपनों ने मुझे छल लिया।",
+      "hinglish_display": "Dil ne rokne ki koshish ki, par sapnon ne mujhe chal liya.",
+      "visual_prompt": "Wide shot of a lone figure walking under streetlights, puddles reflecting yellow glow, drifting cigarette smoke, lofi ambience.",
+      "audio_cue": "soft_piano",
+      "visual_effect": "gentle_fade",
+      "duration_estimate": 5.5
+    },
+    {
+      "id": 3,
+      "narration": "तुम मुस्कुराए किसी और के साथ, और मेरा शहर ख़ामोश हो गया।",
+      "hinglish_display": "Tum muskuraye kisi aur ke saath, aur mera shehar khamosh ho gaya.",
+      "visual_prompt": "Over-the-shoulder shot of protagonist seeing shadows of an ex laughing with someone new across the street, bokeh neon lights, slow-motion drizzle.",
+      "audio_cue": "gentle_strings",
+      "visual_effect": "bokeh_hearts",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 4,
+      "narration": "मैं टूट कर भी चल रहा हूँ, पर अंदर से सब खो गया।",
+      "hinglish_display": "Main toot kar bhi chal raha hoon, par andar se sab kho gaya.",
+      "visual_prompt": "Tracking shot behind a lonely figure on an empty metro platform, cool tones, flickering lights, long shadows.",
+      "audio_cue": "acoustic_guitar",
+      "visual_effect": "warm_glow",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 5,
+      "narration": "कहते हैं वक़्त सब ठीक कर देता है… पर मेरा वक़्त तो तुम थे।",
+      "hinglish_display": "Kehte hain waqt sab theek kar deta hai… par mera waqt to tum the.",
+      "visual_prompt": "Close-up of a hand tracing raindrops on glass, city lights reflecting like broken memories, slow cinematic fade-to-black.",
+      "audio_cue": "birds_chirping",
+      "visual_effect": "dreamy_overlay",
+      "duration_estimate": 6.5
+    }
+  ]
+}

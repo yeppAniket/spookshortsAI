@@ -1,0 +1,63 @@
+{
+  "title": "NH-44 Ka Saaya",
+  "series_tag": "Highway Horror — Real Incident Rumour",
+  "language": "hi",
+  "genre": "horror",
+  "total_duration": 36,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "कभी रात को NH-44 पर अकेले ड्राइव मत करना… कुछ आवाज़ें होती हैं जो सिर्फ चलती गाड़ियों के साथ भागती हैं।",
+      "hinglish_display": "Kabhi raat ko NH-44 par akele drive mat karna… kuch awaazein hoti hain jo sirf chalti gaadiyon ke saath bhaagti hain.",
+      "visual_prompt": "Night highway, empty road, headlights cutting through fog, faint shadow sprinting alongside car.",
+      "audio_cue": "whisper_drone",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 2,
+      "narration": "एक लड़का कहानी सुना रहा था… 'भाई सब नॉर्मल था, पर 2 बजे रात को हवा अजीब सी भर-हेवी लगने लगी।'",
+      "hinglish_display": "Ek ladka keh raha tha… 'Bhai sab normal tha, par 2 baje raat ko hawa ajeeb si bhar-heavy lagne lagi.'",
+      "visual_prompt": "Inside car POV, steering trembling slightly, fog thickening ahead.",
+      "audio_cue": "low_drone",
+      "visual_effect": "lens_dirt_fog",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 3,
+      "narration": "अचानक उसने रियर-व्यू मिरर देखा… कोई सफेद साया बैकसीट के बिल्कुल पीछे खड़ा था—बिल्कुल स्टिल।",
+      "hinglish_display": "Achanak usne rear-view mirror dekha… koi safed saaya backseat ke bilkul peeche khada tha—bilkul still.",
+      "visual_prompt": "Rear-view mirror closeup, pale figure in backseat, eyes hollow, car lights flickering.",
+      "audio_cue": "temple_bell_reverse",
+      "visual_effect": "static_noise",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 4,
+      "narration": "उसने घबराके ब्रेक मारा, पर जैसे ही मुड़के देखा… बैकसीट खाली। बस सीट बेल्ट हिल रही थी… बिना हवा के।",
+      "hinglish_display": "Usne ghabra ke brake mara, par jese hi mud ke dekha… backseat khaali. Bas seat belt hil rahi thi… bina hawa ke.",
+      "visual_prompt": "Car stopped on roadside, empty backseat, seatbelt swinging slowly.",
+      "audio_cue": "heartbeat_rising",
+      "visual_effect": "slow_zoom_glitch",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 5,
+      "narration": "पर असली डर तब लगा… जब गाड़ी के बाहर से किसी ने खिड़की पर *तीन बार* ज़ोर से नॉक किया।",
+      "hinglish_display": "Par asli darr tab laga… jab gaadi ke bahar se kisi ne khidki par *teen baar* zor se knock kiya.",
+      "visual_prompt": "Closeup of car window, three loud knocks, shadowy handprint sliding down glass.",
+      "audio_cue": "payal_sound",
+      "visual_effect": "rapid_shake",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 6,
+      "narration": "वो भागा वहां से… पर NH-44 आज भी लोग कहते हैं—रात को कोई साया तुम्हारी गाड़ी के साथ-साथ भागता है। इसलिए कभी रात को NH-44 पर अकेले ड्राइव मत करना…",
+      "hinglish_display": "Woh bhaga wahan se… par NH-44 aaj bhi log kehte hain—raat ko koi saaya tumhari gaadi ke saath-saath bhaagta hai. Isliye kabhi raat ko NH-44 par akele drive mat karna…",
+      "visual_prompt": "Highway aerial shot at night, shadow figure pacing alongside speeding car.",
+      "audio_cue": "echoing_scream",
+      "visual_effect": "fade_to_black",
+      "duration_estimate": 6.0
+    }
+  ]
+}

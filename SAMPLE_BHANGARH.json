@@ -1,0 +1,71 @@
+{
+  "title": "Bhangarh Se Wapas Aayi Ladki",
+  "series_tag": "Real Case — Bhangarh Fort",
+  "language": "Hindi",
+  "total_duration": 36,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "भानगढ़… दुनिया का सबसे भयानक किला। रात को आज तक किसी को अंदर सोने नहीं दिया गया। और 2009 में वहां से एक लड़की गायब हो गई।",
+      "hinglish_display": "Bhangarh… duniya ka sabse bhayaanak fort. Raat ko aaj tak kisi ko andar sone nahi diya gaya. Aur 2009 mein wahan se ek ladki gayab ho gayi.",
+      "visual_prompt": "Night aerial shot of Bhangarh fort ruins, light fog, cinematic dark tones.",
+      "sfx_cue": "metallic_doom_impact",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 2,
+      "narration": "कॉलेज ट्रिप थी। टीचर ने बोला था—'6 बजे के बाद बाउंड्री पार मत करना।' लेकिन 4 दोस्त चुपके अंदर घुस गए।",
+      "hinglish_display": "College trip thi. Teacher ne bola tha—'6 baje ke baad boundary paar mat karna.' Lekin 4 friends chupke andar ghus gaye.",
+      "visual_prompt": "Students laughing, crossing broken fencing, handheld shaky camera vibe.",
+      "sfx_cue": "wind_build_up",
+      "visual_effect": "static_noise",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 3,
+      "narration": "अचानक उन्होंने अंदर एक पुरानी हवेली देखी, जिसमें दिया जल रहा था। किसी ने आग नहीं लगाई थी।",
+      "hinglish_display": "Achanak unhone andar ek purani haveli dekhi, jisme diya jal raha tha. Kisi ne aag nahi lagayi thi.",
+      "visual_prompt": "Single floating diya burning inside broken haveli hallway, no wind, absolute silence.",
+      "sfx_cue": "faint_whisper_frequency",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 4,
+      "narration": "एक लड़की ने पर्दे के पीछे झांक कर कहा—'यहां कोई है।' उसके बाद उसकी चीख सुनाई दी… फिर बस सन्नाटा।",
+      "hinglish_display": "Ek ladki ne curtain ke peeche jhaank kar kaha—'Yahan koi hai.' Uske baad uski cheekh sunayi di… phir bas sannata.",
+      "visual_prompt": "Curtain moving slightly, sudden black-out beyond it.",
+      "sfx_cue": "sharp_scream_cut",
+      "visual_effect": "flash_red",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 5,
+      "narration": "दो दोस्त भाग गए। लेकिन वो लड़की नहीं मिली। पुलिस आई, सर्च हुआ। कुछ नहीं मिला—ना जूता, ना फोन।",
+      "hinglish_display": "Do friends bhaag gaye. Lekin woh ladki nahi mili. Police aayi, search hua. Kuch nahi mila—na joota, na phone.",
+      "visual_prompt": "Searchlights moving across fort corridors, dust clouds rising.",
+      "sfx_cue": "radio_static_distress",
+      "visual_effect": "static_noise",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 6,
+      "narration": "तीन दिन बाद… सुबह किले के गेट के बाहर वो लड़की बैठी मिली। कपड़े फटे हुए। आंखों का रंग बिल्कुल सफेद।",
+      "hinglish_display": "Teen din baad… subah fort ke gate ke bahar woh ladki baithi milin. Kapde phate hue. Aankhon ka color bilkul safed.",
+      "visual_prompt": "Girl sitting near fort entrance gate, shaky camera close-up, panicking crowd.",
+      "sfx_cue": "heartbeat_reverse",
+      "visual_effect": "chromatic_aberration",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 7,
+      "narration": "उसने बस एक ही लाइन बोली—'अंदर दिया दोबारा जला नहीं… वापस आ जाएगा।'",
+      "hinglish_display": "Usne bas ek hi line boli—'Andar diya dobara jala nahin… wapas aa jayega.'",
+      "visual_prompt": "Black screen, diya flame appearing faintly.",
+      "sfx_cue": "deep_jumpscare_hit",
+      "visual_effect": "rapid_shake",
+      "duration_estimate": 3.0
+    }
+  ]
+}

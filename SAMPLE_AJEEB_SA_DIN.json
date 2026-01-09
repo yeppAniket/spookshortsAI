@@ -1,0 +1,44 @@
+{
+  "title": "Ajeeb Sa Din",
+  "series_tag": "Light Strange Daytime Incident",
+  "language": "Hindi",
+  "total_duration": 29,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "दोपहर 1 बजे की ऑफिस शटल थी—धूप सीधी कांच पर पड़ रही थी। अनशिका खिड़की वाली सीट पर बैठी थी। हॉल में हल्की बसे की 'टिट-टिट' साउंड आ रही थी।",
+      "hinglish_display": "Dopahar 1 baje ki office shuttle thi—dhoop seedhi kaanch par pad rahi thi. Anshika khidki wali seat par baithi thi. Hall mein halki bus ki 'tit-tit' sound aa rahi thi.",
+      "visual_prompt": "Bright daylight, bus indicator blinking, light shadows moving.",
+      "audio_cue": "electrical_buzz",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 8.0
+    },
+    {
+      "id": 2,
+      "narration": "पीछे से सीट हिलने की हल्की 'च्र्र' आवाज आई। वो पलटकर देखती है—सीट खाली। बस की एसी की हवा सीट की प्लास्टिक को 'टक-टक' कर रही थी।",
+      "hinglish_display": "Peeche se seat hilne ki halki 'chrrr' awaaz aayi. Wo palatkar dekhti hai—seat khaali. Bus ki AC ki hawa seat ki plastic ko 'tak-tak' kar rahi thi.",
+      "visual_prompt": "Empty seat gently shaking from airflow.",
+      "audio_cue": "door_creak",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 8.0
+    },
+    {
+      "id": 3,
+      "narration": "खिड़की में उसे लगा कि कोई उसे देखकर मुस्कुरा रहा है—पर वो उसकी खुद की reflection थी… बस धूप में हल्का distort।",
+      "hinglish_display": "Khidki mein use laga ki koi use dekhkar muskura raha hai—par wo uski khud ki reflection thi... bas dhoop mein halka distort.",
+      "visual_prompt": "Reflection bending slightly in curved glass.",
+      "audio_cue": "wind_howling",
+      "visual_effect": "chromatic_aberration",
+      "duration_estimate": 7.0
+    },
+    {
+      "id": 4,
+      "narration": "बाकी सीटें आज खाली थीं। बस में बस हल्की 'घूँ-घूँ' AC की आवाज और अनशिका की हंसी… क्योंकि कभी-कभी साधारण चीजें भी अजीब लग जाती हैं।",
+      "hinglish_display": "Baaki seats aaj khaali thi. Bus mein bas halki 'ghoo-ghoo' AC ki awaaz aur Anshika ki hansi... kyunki kabhi-kabhi saadharan cheezein bhi ajeeb lag jaati hain.",
+      "visual_prompt": "Camera pans across empty seats, sunlight dust visible.",
+      "audio_cue": "drone_low",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 6.0
+    }
+  ]
+}

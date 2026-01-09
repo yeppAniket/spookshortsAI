@@ -1,0 +1,70 @@
+{
+  "title": "The Red Eye",
+  "language": "hi",
+  "total_duration": 35,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "Mera naya Hostel room sasta tha, bas ek dikkat thi... bagal wala kamra humesha locked rehta tha.",
+      "visual_prompt": "Gloomy hostel corridor, dim yellow flickering lights, a wooden door with a heavy rusty padlock, dirty walls, horror atmosphere.",
+      "sfx_cue": "drone_low",
+      "visual_effect": "slow_zoom_in",
+      "effect_timestamp": 2.5,
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 2,
+      "narration": "Ek raat, uss band kamre se khurachne ki awaaz aane lagi.",
+      "visual_prompt": "Close up of a dirty wall with peeling paint, shadow of a hand or claw implied, dark texture.",
+      "sfx_cue": "scratching_wood",
+      "visual_effect": "static_noise",
+      "effect_timestamp": 2.0,
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 3,
+      "narration": "Maine diwaar ke chhed se andar jhaanka... mujhe sirf 'Laal Rang' dikhayi diya.",
+      "visual_prompt": "POV looking through a small crack in the wall, seeing a blur of deep crimson red color, macro shot, mysterious.",
+      "sfx_cue": "heartbeat_fast",
+      "visual_effect": "vignette_pulse",
+      "effect_timestamp": 2.5,
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 4,
+      "narration": "Mujhe laga shayad wahan laal parde (curtains) lage honge.",
+      "visual_prompt": "A dusty abandoned room interior visible vaguely, covered in old red velvet curtains, spiderwebs.",
+      "sfx_cue": "silence",
+      "visual_effect": "slow_zoom_in",
+      "effect_timestamp": 2.0,
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 5,
+      "narration": "Agle din maine Warden se poocha, toh unhone bataya: 'Us kamre mein ek ladki mar gayi thi...'",
+      "visual_prompt": "Old Indian hostel warden face, looking serious and scared, speaking to camera, wrinkled skin, cinematic lighting.",
+      "sfx_cue": "drone_low",
+      "visual_effect": "chromatic_aberration",
+      "effect_timestamp": 3.0,
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 6,
+      "narration": "'...aur uski aakhon ka rang poora LAAL tha.'",
+      "visual_prompt": "Extreme close up of a scary demonic eye, iris is completely red, staring directly into the camera lens, high detail horror.",
+      "sfx_cue": "jumpscare_sting",
+      "visual_effect": "rapid_shake",
+      "effect_timestamp": 2.5,
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 7,
+      "narration": "Matlab wo parda nahi tha... wo mujhe dekh rahi thi.",
+      "visual_prompt": "POV looking through a small crack in the wall, seeing a blur of deep crimson red color, macro shot, mysterious.",
+      "sfx_cue": "scream_piercing",
+      "visual_effect": "flash_red",
+      "effect_timestamp": 2.0,
+      "duration_estimate": 4.0
+    }
+  ]
+}

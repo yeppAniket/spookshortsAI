@@ -1,0 +1,71 @@
+{
+  "title": "Tamang Satti Peepal Ka Sach",
+  "series_tag": "Real Location — Vindhyachal",
+  "language": "Hindi",
+  "total_duration": 38,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "विंध्याचल मंदिर के पिछले रास्ते पर एक पीपल है… जिसे लोग 'तमंग सत्ती' बोलते हैं। वहां रात को हवा भी नहीं चलती।",
+      "hinglish_display": "Vindhyachal Mandir ke pichle raste par ek peepal hai… jisse log 'Tamang Satti' bolte hain. Wahan raat ko hawa bhi nahi chalti.",
+      "visual_prompt": "Real road behind Vindhyachal temple, police barricades around a massive peepal tree.",
+      "sfx_cue": "conch_wind",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 2,
+      "narration": "कहते हैं 1794 में यहां सत्ती देवी की स्थापना अधूरी रह गई थी। पूजा के बीच पुजारी की सांसें बंद हो गई।",
+      "hinglish_display": "Kehte hain 1794 mein yahan Satti Devi ki sthapna adhuri reh gayi thi. Pooja ke beech pujari ki saansein bandh ho gayi.",
+      "visual_prompt": "Archive-style reconstruction of ancient ritual space, unfinished idol carvings.",
+      "sfx_cue": "heartbeat_fading",
+      "visual_effect": "static_noise",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 3,
+      "narration": "उस दिन के बाद जिसने भी उस पीपल की जड़ को छुआ… उसका मुंह टेढ़ा हो गया। बिल्कुल 3 घंटे के अंदर।",
+      "hinglish_display": "Us din ke baad jisne bhi us peepal ki jad ko chhua… uska muh tedha ho gaya. Exactly 3 ghante ke andar.",
+      "visual_prompt": "Close-ups of twisted facial muscles, medical records, villagers covering faces.",
+      "sfx_cue": "deep_click",
+      "visual_effect": "chromatic_aberration",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 4,
+      "narration": "1982 में एक आदमी ने डर के बिना पत्ता तोड़ लिया… सुबह उसकी जुबान सून पड़ गई। रिपोर्ट आज भी मंदिर रजिस्टर में लिखी है।",
+      "hinglish_display": "1982 mein ek aadmi ne dare ke bina patta tod liya… subah uski zubaan sune pad gayi. Report aaj bhi mandir register mein likhi hai.",
+      "visual_prompt": "Temple register pages zoomed in, name/date visible, red ink markings.",
+      "sfx_cue": "writing_scratch",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 5,
+      "narration": "पुजारी कहते हैं कि रात 1:40 पर जड़ों के नीचे से आवाज़ आती है—'वही पूजा पूरी करो… वही बलि दो।'",
+      "hinglish_display": "Pujari kehte hain ki raat 1:40 par jadon ke neeche se awaaz aati hai—'Vahi pooja poori karo… vahi bali do.'",
+      "visual_prompt": "Low moonlight, branches vibrating without wind, shadow moving behind trunk.",
+      "sfx_cue": "whispers_chain",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 6,
+      "narration": "पुलिस ने पीपल के आस-पास लोहे की चेन लगवा दी। बोर्ड भी लगा—'रात में खड़े ना हो।'",
+      "hinglish_display": "Police ne peepal ke aas-paas lohe ki chain lagwa di. Board bhi laga—'Raat me khade na ho.'",
+      "visual_prompt": "Iron fencing around tree, prohibition sign in Hindi.",
+      "sfx_cue": "chain_rattle",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 7,
+      "narration": "लोग मानता है जो भी उस जगह रुक जाता है… देवी उसका नाम रजिस्टर में लिखवा लेती है। और फिर वापस नहीं जाने देती।",
+      "hinglish_display": "Log maanta hai jo bhi us jagah ruk jaata hai… Devi uska naam register mein likhwa leti hai. Aur fir wapas nahi jaane deti.",
+      "visual_prompt": "Temple ledger page fading into dark screen, ink spreading like blood.",
+      "sfx_cue": "sudden_sting",
+      "visual_effect": "rapid_shake",
+      "duration_estimate": 5.0
+    }
+  ]
+}

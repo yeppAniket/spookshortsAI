@@ -1,0 +1,35 @@
+{
+  "title": "Aakhiri Guftagu",
+  "series_tag": "Hindi Breakup Shayari",
+  "language": "Hindi",
+  "total_duration": 18,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "वो कह गया—'ख़ुश रहना', और मैं आज तक समझ ही नहीं पाया, कि उसके बिना ख़ुशी मिलती कहाँ है।",
+      "hinglish_display": "Wo kah gaya—'Khush rehna', aur main aaj tak samajh hi nahi paaya, ki uske bina khushi milti kahan hai.",
+      "visual_prompt": "Empty park bench during sunset.",
+      "audio_cue": "wind_howling",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 2,
+      "narration": "वो कहता था मेरा हाथ छोड़ना मुश्किल होगा… आज वो हाथ भी किसी और का है, और बात भी।",
+      "hinglish_display": "Wo kehta tha mera haath chhodna mushkil hoga... aaj wo haath bhi kisi aur ka hai, aur baat bhi.",
+      "visual_prompt": "Dropping hand slowly, blurred background.",
+      "audio_cue": "heartbeat_fading",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 3,
+      "narration": "मैंने सिर्फ इतना सीखा—मोहब्बत में ज़रूरी नहीं कोई गलत हो… कभी रास्ते ही अलग हो जाते हैं।",
+      "hinglish_display": "Maine sirf itna seekha—mohabbat mein zaroori nahi koi galat ho... kabhi raaste hi alag ho jaate hain.",
+      "visual_prompt": "Road splitting into two paths.",
+      "audio_cue": "drone_low",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 6.0
+    }
+  ]
+}

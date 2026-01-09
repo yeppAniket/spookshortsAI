@@ -1,0 +1,54 @@
+{
+  "title": "Adhoori Si Dastaan",
+  "series_tag": "Heartbreak Diaries",
+  "language": "hi",
+  "genre": "romance",
+  "total_duration": 34,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "सोचा था तुम ही मंज़िल हो, पर राह में धुंध छा गई।",
+      "hinglish_display": "Socha tha tum hi manzil ho, par raah mein dhundh chha gayi.",
+      "visual_prompt": "Cinematic foggy street, lone figure under a dim streetlamp, soft drizzle, neon reflections on wet pavement.",
+      "audio_cue": "rain_soft",
+      "visual_effect": "soft_blur",
+      "duration_estimate": 5.5
+    },
+    {
+      "id": 2,
+      "narration": "दिल संभलने को निकला था, पर याद तुम्हारी आ गई।",
+      "hinglish_display": "Dil sambhalne ko nikla tha, par yaad tumhari aa gayi.",
+      "visual_prompt": "Close-up of a hand clutching a jacket, breath misting in cold air, headlights blurred behind.",
+      "audio_cue": "soft_piano",
+      "visual_effect": "gentle_fade",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 3,
+      "narration": "तुम हँसते रहे किसी और के साथ, और मेरी दुनिया ठहर गई।",
+      "hinglish_display": "Tum hanste rahe kisi aur ke saath, aur meri duniya thahar gayi.",
+      "visual_prompt": "Silhouette sees ex across street laughing with someone new, neon signage flickering, slow-motion rainfall.",
+      "audio_cue": "gentle_strings",
+      "visual_effect": "bokeh_hearts",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 4,
+      "narration": "मैं टूटकर भी मुस्कुराया, पर खुशी कहीं भटक गई।",
+      "hinglish_display": "Main tootkar bhi muskuraya, par khushi kahin bhatak gayi.",
+      "visual_prompt": "Side profile shot of protagonist on a moving metro, reflections on glass splitting the face in two layers.",
+      "audio_cue": "acoustic_guitar",
+      "visual_effect": "warm_glow",
+      "duration_estimate": 5.5
+    },
+    {
+      "id": 5,
+      "narration": "लोग कहते हैं भूल जाओ… पर बताओ, जो कभी मेरा था—वो मेरी गलती कैसे बन गई?",
+      "hinglish_display": "Log kehte hain bhool jao… par batao, jo kabhi mera tha—wo meri galti kaise ban gayi?",
+      "visual_prompt": "Hand letting go of a photograph in slow motion, photo falling onto wet pavement, neon lights reflecting like broken memories.",
+      "audio_cue": "birds_chirping",
+      "visual_effect": "dreamy_overlay",
+      "duration_estimate": 7.0
+    }
+  ]
+}

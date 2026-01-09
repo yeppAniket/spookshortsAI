@@ -1,0 +1,44 @@
+{
+  "title": "Shuttle Mein Chhoti Si Confusion",
+  "series_tag": "Happy Office Ride",
+  "language": "Hindi",
+  "total_duration": 28,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "दोपहर की शटल में अनशिका बैठी थी। AC चल रहा था और बस में बड़ी प्यारी 'घूं-घूं' हवा की आवाज हो रही थी।",
+      "hinglish_display": "Dopahar ki shuttle mein Anshika baithi thi. AC chal raha tha aur bus mein badi pyaari 'ghoo-ghoo' hawa ki awaaz ho rahi thi.",
+      "visual_prompt": "Bright bus interior, sunlight bouncing, Anshika relaxed.",
+      "audio_cue": "drone_low",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 7.0
+    },
+    {
+      "id": 2,
+      "narration": "उसने सोचा सीट पीछे कोई बैठा है, क्योंकि हल्की 'चक-चक' आवाज आई। पलटकर देखा—कोई नहीं। बस ड्राइवर पानी की बॉटल टिकाने की कोशिश कर रहा था।",
+      "hinglish_display": "Usne socha seat peeche koi baitha hai, kyunki halki 'chak-chak' awaaz aayi. Palatkar dekha—koi nahi. Bus driver paani ki bottle tikane ki koshish kar raha tha.",
+      "visual_prompt": "Driver adjusting bottle that keeps falling.",
+      "audio_cue": "deep_click",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 7.0
+    },
+    {
+      "id": 3,
+      "narration": "ड्राइवर ने बोला—'मैडम ये सीट रोज़ आवाज करती है, पर डरिए मत… EMI पूरी होने तक ये साथ चलेगी।'",
+      "hinglish_display": "Driver ne bola—'Madam ye seat roz awaaz karti hai, par dariye mat... EMI poori hone tak ye saath chalegi.'",
+      "visual_prompt": "Driver smiling through mirror.",
+      "audio_cue": "none",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 4,
+      "narration": "अनशिका हँस पड़ी। बस चलती रही। और वो सोचने लगी—'सीट की EMI खत्म होगी, तब शोर बंद होगा?' और हँसते-हँसते ऑफिस पहुँच गई।",
+      "hinglish_display": "Anshika hans padi. Bus chalti rahi. Aur wo sochne lagi—'Seat ki EMI khatam hogi, tab shor band hoga?' Aur hanste-hanste office pahunch gayi.",
+      "visual_prompt": "Anshika laughing, shuttle turning near office.",
+      "audio_cue": "city_ambience",
+      "visual_effect": "none",
+      "duration_estimate": 8.0
+    }
+  ]
+}

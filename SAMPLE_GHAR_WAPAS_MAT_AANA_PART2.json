@@ -1,0 +1,90 @@
+{
+  "title": "Ghar Wapas Mat Aana - Part 2",
+  "series_tag": "Ultra Viral Indian Horror Continuation",
+  "language": "hi",
+  "genre": "horror",
+  "total_duration": 38,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "दरवाज़ा खुलते ही अंदर वाली 'अनन्या' चीखते हुए बोली— 'माँ, वो बाहर वाली मैं नहीं हूँ!'",
+      "hinglish_display": "Darwaza khulte hi andar wali 'Ananya' cheekhte hue boli— 'Maa, woh bahar wali main nahi hoon!'",
+      "visual_prompt": "Dark room interior, trembling girl in corner.",
+      "audio_cue": "echoing_scream",
+      "visual_effect": "rapid_shake",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 2,
+      "narration": "बाहर वाली अनन्या की आँखें अचानक काली पड़ने लगीं... और होंठ खुद-ब-खुद फट रहे थे।",
+      "hinglish_display": "Bahar wali Ananya ki aankhen achanak kaali padne lagin... aur hoth khud-ba-khud phat rahe the.",
+      "visual_prompt": "Face glitching, mouth tearing unnaturally.",
+      "audio_cue": "temple_bell_reverse",
+      "visual_effect": "chromatic_aberration",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 3,
+      "narration": "माँ पीछे हट गईं— 'तुम... आखिर हो कौन?'",
+      "hinglish_display": "Maa peeche hat gayin— 'Tum... aakhir ho kaun?'",
+      "visual_prompt": "Mother terrified, stepping back.",
+      "audio_cue": "heartbeat_rising",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 3.0
+    },
+    {
+      "id": 4,
+      "narration": "नकली अनन्या की आवाज़ टूटने लगी। उसमें कई आवाज़ें मिलकर बोलीं— 'मैं वही हूँ... जिसे तुमने अंदर आने दिया।'",
+      "hinglish_display": "Nakkli Ananya ki awaaz tootne lagi. Usme kai awaazein milkar bolin— 'Main wahi hoon... jise tumne andar aane diya.'",
+      "visual_prompt": "Shadowy figure behind fake Ananya merging with her body.",
+      "audio_cue": "whisper_drone",
+      "visual_effect": "static_noise",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 5,
+      "narration": "अंदर वाली असली अनन्या रोते हुए बोली— 'माँ, ये वो चीज़ है... जो मेरी आवाज़ चुरा लेती है!'",
+      "hinglish_display": "Andar wali asli Ananya rote hue boli— 'Maa, ye woh cheez hai... jo meri awaaz chura leti hai!'",
+      "visual_prompt": "Real Ananya crying in corner, hands over ears.",
+      "audio_cue": "payal_sound",
+      "visual_effect": "lens_dirt_fog",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 6,
+      "narration": "नकली अनन्या अचानक माँ के बिलकुल पास आकर फुसफुसाई— 'अगली बारी... तुम्हारी है।'",
+      "hinglish_display": "Nakkli Ananya achanak Maa ke bilkul paas aakar fusfusayi— 'Agli baari... tumhari hai.'",
+      "visual_prompt": "Fake Ananya's face inches away from camera, demonic eyes.",
+      "audio_cue": "low_drone",
+      "visual_effect": "slow_zoom_glitch",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 7,
+      "narration": "लाइट्स झपकीं... और जब लौटीं... नकली अनन्या गायब थी। दरवाज़ा खुला था... बाहर अँधेरी सीढ़ियाँ।",
+      "hinglish_display": "Lights jhapkin... aur jab lautin... nakkli Ananya gayab thi. Darwaza khula tha... baahar andheri seedhiyan.",
+      "visual_prompt": "Dark staircase descending into pitch black.",
+      "audio_cue": "whisper_drone",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 4.0
+    },
+    {
+      "id": 8,
+      "narration": "नीचे से फिर वही आवाज़ आई... बिल्कुल अनन्या की— 'माँ... मैं नीचे हूँ। जल्दी आओ... अँधेरा बढ़ रहा है।'",
+      "hinglish_display": "Neeche se fir wahi awaaz aayi... bilkul Ananya ki— 'Maa... main neeche hoon. Jaldi aao... andhera badh raha hai.'",
+      "visual_prompt": "Stairwell echoing with faint shadow movement.",
+      "audio_cue": "temple_bell_reverse",
+      "visual_effect": "static_noise",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 9,
+      "narration": "माँ ने ऊपर वाली असली अनन्या का हाथ पकड़ा... पर असली अनन्या काँपते हुए बोली— 'माँ... वो नीचे वाली... मैं नहीं हूँ।'",
+      "hinglish_display": "Maa ne upar wali asli Ananya ka haath pakda... par asli Ananya kaampte hue boli— 'Maa... woh neeche wali... main nahi hoon.'",
+      "visual_prompt": "Camera pulls back, two silhouettes—one upstairs, one downstairs.",
+      "audio_cue": "echoing_scream",
+      "visual_effect": "fade_to_black",
+      "duration_estimate": 5.0
+    }
+  ]
+}

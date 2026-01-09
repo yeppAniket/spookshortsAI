@@ -1,0 +1,71 @@
+{
+  "title": "Dow Hill Ka Yellow Dress Incident",
+  "series_tag": "Real Case — Kurseong (West Bengal)",
+  "language": "Hindi",
+  "total_duration": 36,
+  "scenes": [
+    {
+      "id": 1,
+      "narration": "2011 में दो दोस्तों ने Kurseong से Bagora की वॉकिंग ट्रेल पर जाने की हिम्मत की—दोनों कॉलेज के स्टूडेंट्स थे।",
+      "hinglish_display": "2011 mein do doston ne Kurseong se Bagora ki walking trail par jaane ki himmat ki—dono college students the.",
+      "visual_prompt": "Two boys walking with small backpacks on foggy hillside trail.",
+      "audio_cue": "mountain_wind",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 2,
+      "narration": "रात के करीब 8 बजे उन्हें दूर सड़क पर एक लड़की दिखाई दी—पीले कपड़े… लंबे बाल… और वो बहुत धीरे चल रही थी।",
+      "hinglish_display": "Raat 8 baje unhe door sadak par ek ladki dikhi—yellow kapde, long hair… aur wo bahut dheere chal rahi thi.",
+      "visual_prompt": "Yellow outfit girl seen under dim yellow lamp, slow-paced walk.",
+      "audio_cue": "soft_metal_scrape",
+      "visual_effect": "slow_zoom_in",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 3,
+      "narration": "दोनों ने उसे आवाज दी—कोई response नहीं। वो सिर्फ सीधा देखती हुई आगे बढ़ती रही, बिना हाथ-पैर मोड़े।",
+      "hinglish_display": "Dono ne use awaaz di—no response. Wo seedha aage badhti rahi, bina haath-pair mode.",
+      "visual_prompt": "Girl walking stiffly, arms downward, absolutely straight.",
+      "audio_cue": "flat_frequency",
+      "visual_effect": "static_noise",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 4,
+      "narration": "उनमें से एक लड़के ने मोबाइल निकालकर वीडियो रिकॉर्डिंग शुरू कर दी। और तभी लड़की अचानक रुक गई।",
+      "hinglish_display": "Unme se ek ne mobile se recording start ki. Aur tabhi ladki achanak ruk gayi.",
+      "visual_prompt": "Phone POV recording, shaky zoom.",
+      "audio_cue": "reverse_wind_suction",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 5,
+      "narration": "वो मुड़ी नहीं। लेकिन उसके सिर के दोनों तरफ से बाल अलग हो गए… जैसे कोई अदृश्य चेहरा दिखाना चाह रहा हो।",
+      "hinglish_display": "Wo muri nahi. Par uske sir ke dono side baal alag ho gaye… jaise koi invisible face dikhana chahta ho.",
+      "visual_prompt": "Hair moving sideways without wind, face hidden.",
+      "audio_cue": "deep_swell",
+      "visual_effect": "chromatic_aberration",
+      "duration_estimate": 6.0
+    },
+    {
+      "id": 6,
+      "narration": "अचानक उनके मोबाइल की स्क्रीन बंद हो गई। सिर्फ एक लाइन रिकॉर्ड हुई—एक धीमी आवाज, 'Koi aa raha hai…'.",
+      "hinglish_display": "Achanak unke phone ki screen band ho gai. Sirf ek line record hui—slow voice, 'Koi aa raha hai…'.",
+      "visual_prompt": "Video glitch frame freeze.",
+      "audio_cue": "distorted_female_voice",
+      "visual_effect": "static_noise",
+      "duration_estimate": 5.0
+    },
+    {
+      "id": 7,
+      "narration": "वो दोनों भागे। अगले दिन जब पुलिस वहां पहुँची—लड़की या उसके पैरों के निशान कहीं नहीं मिले।",
+      "hinglish_display": "Woh dono bhaage. Agle din jab police pahunchi—ladki ya uske footprints kahi nahi mile.",
+      "visual_prompt": "Searchlight scanning the empty road, fog swallowing trail.",
+      "audio_cue": "radio_static",
+      "visual_effect": "vignette_pulse",
+      "duration_estimate": 6.0
+    }
+  ]
+}
